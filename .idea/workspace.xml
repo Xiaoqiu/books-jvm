@@ -123,8 +123,8 @@
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$USER_HOME$/code/src/eureka" value="PREVIEW" />
-        <entry key="$USER_HOME$/code/src/zuul" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../src/eureka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../src/zuul" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -161,9 +161,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="636" />
-    <option name="y" value="23" />
-    <option name="width" value="792" />
+    <option name="x" value="635" />
+    <option name="y" value="22" />
+    <option name="width" value="793" />
     <option name="height" value="780" />
   </component>
   <component name="ProjectView">
