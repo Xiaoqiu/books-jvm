@@ -1,4 +1,4 @@
 /demo/target/*
 *.class
-.idea/*
-.idea
+/.idea/*
+/.idea
